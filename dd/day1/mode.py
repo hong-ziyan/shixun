@@ -13,4 +13,3 @@ response = requests.get("https://api.github.com")
 print(response.status_code)  # 200
 
 # 包使用示例
-from mypackage import mymodule
